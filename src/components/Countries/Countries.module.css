@@ -1,0 +1,6 @@
+.container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
+  background-color: rgb(228, 129, 0);
+}
